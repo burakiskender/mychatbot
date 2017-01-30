@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "mychatbot-executor",
+    "name": "mychatbot",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "otsew2xwja",
+    "module": "bot"
+  }
+}
